@@ -1,0 +1,24 @@
+body {
+  margin: 0;
+  background-color: #f8f8f8;
+  font-family: 'poppins';
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: 'poppins';
+}
+
+.center_error {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  width: 100%;
+  text-align: center;
+}
+
+.center_error span {
+  color: #006ac7;
+}
